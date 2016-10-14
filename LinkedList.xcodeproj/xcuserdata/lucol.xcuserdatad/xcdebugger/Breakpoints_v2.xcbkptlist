@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkedList/LinkedListClass.swift"
+            timestampString = "427672862.063296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "343"
+            endingLineNumber = "343"
+            landmarkName = "insertItemAtIndex(atIndex:value:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList.LinkedList.insertItemAtIndex &lt;A : protocol&lt;Swift.Equatable, Swift.Printable&gt;&gt;(LinkedList.LinkedList&lt;A&gt;)(A, atIndex : Swift.Int) -&gt; ()"
+                  moduleName = "LinkedList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Development/Learning/Swift/SwiftLibraries/LinkedList/LinkedList/LinkedListClass.swift"
+                  timestampString = "427570399.247574"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "313"
+                  endingLineNumber = "313"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList.LinkedList.insertItemAtIndex &lt;A : protocol&lt;Swift.Equatable, Swift.Printable&gt;&gt;(LinkedList.LinkedList&lt;A&gt;)(A, atIndex : Swift.Int) -&gt; ()"
+                  moduleName = "LinkedList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Development/Learning/Swift/SwiftLibraries/LinkedList/LinkedList/LinkedListClass.swift"
+                  timestampString = "427570399.247794"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "313"
+                  endingLineNumber = "313"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkedList/LinkedListClass.swift"
+            timestampString = "427672862.063296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "419"
+            endingLineNumber = "419"
+            landmarkName = "removeItemsAtIndex(index:amount:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LinkedList/LinkedListClass.swift"
+            timestampString = "427672862.063296"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "393"
+            endingLineNumber = "393"
+            landmarkName = "removeItemAtIndex(index:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList.LinkedList.removeItemAtIndex &lt;A : protocol&lt;Swift.Equatable, Swift.Printable&gt;&gt;(LinkedList.LinkedList&lt;A&gt;)(Swift.Int) -&gt; ()"
+                  moduleName = "LinkedList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Development/Learning/Swift/SwiftLibraries/LinkedList/LinkedList/LinkedListClass.swift"
+                  timestampString = "427671361.559149"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "362"
+                  endingLineNumber = "362"
+                  offsetFromSymbolStart = "111">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LinkedList.LinkedList.removeItemAtIndex &lt;A : protocol&lt;Swift.Equatable, Swift.Printable&gt;&gt;(LinkedList.LinkedList&lt;A&gt;)(Swift.Int) -&gt; ()"
+                  moduleName = "LinkedList"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Development/Learning/Swift/SwiftLibraries/LinkedList/LinkedList/LinkedListClass.swift"
+                  timestampString = "427671361.559365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "362"
+                  endingLineNumber = "362"
+                  offsetFromSymbolStart = "148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
